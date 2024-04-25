@@ -4,7 +4,8 @@
 #
 ***
 ## Overview
-
+This is a copy of my group project done for my database class.
+Original: https://github.com/Fyatistic/CS157A-Team4
 ##### Goal:
 This web application aims to be an online travel journal for its users that focuses on travel and experiences through simplicity of the UI.
 #
